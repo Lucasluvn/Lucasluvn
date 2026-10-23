@@ -81,29 +81,35 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia
 <br/>
 
 ---
-#### - 🎯 Current Focus
+####  🎯 Current Focus
 
 - Backend development with Node.js and TypeScript
 - Building REST APIs
 - Front-end development with React
 - Project documentation
+<br/>
 
-- 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 - Backend: Node.js, Express, TypeScript, Zod
 - Database: SQL, Prisma, Supabase
 - Front-end: React, Tailwind, HTML, CSS, JavaScript
 - Tools: Git, GitHub, Docker (learning), Obsidian
 
-- 🚀 Projects
+<br/>
+
+ 🚀 Projects
 
 - Agenda Pet (Pet scheduling): REST API for scheduling at pet shops and vet clinics, with full CRUD for three entities
 - Refund: refund management application
 - F1 Stats: Formula 1 statistics site built with React, TypeScript and Tailwind
 
+<br/>
 
 - 📚 How I Learn
 - I learn by doing: Study → Build → Debug → Document. I keep all my notes in Obsidian.
+
+<br/>
 
 - 🤝 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-vieira-79853a27a/)
